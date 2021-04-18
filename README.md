@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaynitm10
+- 👋 Hi, I’m Ajaykumar
 - 👀 I’m interested in open source projects.
 - 📫 Reach me on my mail: ajaynitm10@gmail.com
 
